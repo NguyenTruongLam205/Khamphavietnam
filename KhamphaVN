@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Giới thiệu về Việt Nam</title>
+  </head>
+  <body>
+    <header>
+      <h1>Khám phá Việt Nam</h1>
+      <p>
+        Việt Nam là một quốc gia nằm ở Đông Nam Á, nổi tiếng với cảnh quan thiên
+        nhiên tuyệt đẹp, văn hóa phong phú và lịch sử lâu đời. Từ những bãi biển
+        tuyệt vời đến những ngọn núi hùng vĩ, Việt Nam mang đến cho du khách
+        những trải nghiệm độc đáo và khó quên.
+      </p>
+    </header>
+    <main>
+      <h2>Những địa điểm nổi bật</h2>
+      <ul>
+        <li>Vịnh Hạ Long</li>
+        <li>Phố cổ Hội An</li>
+        <li>Đà Nẵng</li>
+      </ul>
+      <h2>Hình ảnh</h2>
+      <img
+        src="https://images.unsplash.com/photo-1528127269322-539801943592"
+        alt="Phong cảnh Việt Nam"
+        width="300"
+        height="200"
+      />
+
+      <img
+        src="https://images.unsplash.com/photo-1559592413-7cec4d0cae2b"
+        alt="Phố cổ Hội An"
+        width="300"
+        height="200"
+      />
+
+      <img
+        src="https://images.unsplash.com/photo-1509030450996-dd1a26dda07a"
+        alt="Vịnh Hạ Long"
+        width="300"
+        height="200"
+      />
+      <p>
+        Tìm hiểu thêm về Việt Nam tại
+        <a
+          href="https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam"
+          target="_blank"
+        >
+          Wikipedia </a
+        >.
+      </p>
+    </main>
+    <footer>
+      <p>Bản quyền © 2024 Khám phá Việt Nam</p>
+    </footer>
+  </body>
+</html>
